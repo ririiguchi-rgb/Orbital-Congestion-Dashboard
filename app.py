@@ -30,7 +30,7 @@ st.set_page_config(
 )
 
 PROJECT_ROOT = Path(__file__).resolve().parent
-DEFAULT_DATA_PATH = PROJECT_ROOT / "data" / "coco_demo_current_columns.csv"
+DEFAULT_DATA_PATH = PROJECT_ROOT / "data" / "synthetic_data.csv"
 OUTPUT_TABLE_DIR = PROJECT_ROOT / "outputs" / "tables"
 OUTPUT_TABLE_DIR.mkdir(parents=True, exist_ok=True)
 
