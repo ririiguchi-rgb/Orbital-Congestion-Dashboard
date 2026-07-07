@@ -1,4 +1,4 @@
-# Orbital-Congestion-Dashboard# Orbital Congestion Monitoring Dashboard
+# Orbital Congestion Monitoring Dashboard
 
 This repository contains Coco/Ririko's master notebook and Streamlit dashboard for an orbital congestion monitoring research project.
 
