@@ -1,0 +1,31 @@
+{
+  "source_url": "https://celestrak.org/pub/satcat.csv",
+  "source_mode": "committed real CelesTrak snapshot",
+  "raw_rows": 70006,
+  "analysis_rows": 28489,
+  "leo_altitude_range_km": [
+    160,
+    2000
+  ],
+  "features": [
+    "PERIOD",
+    "INCLINATION",
+    "MEAN_ALTITUDE",
+    "ORBIT_SPREAD",
+    "ALTITUDE_RATIO"
+  ],
+  "selected_k": 5,
+  "best_silhouette_score": 0.5178846342173363,
+  "pca_explained_variance_pc1": 0.6081941824426763,
+  "pca_explained_variance_pc2": 0.23005877693110216,
+  "pca_explained_variance_total": 0.8382529593737784,
+  "nearest_neighbors_per_object": 5,
+  "random_forest_accuracy": 0.9571303587051618,
+  "random_forest_balanced_accuracy": 0.9566918584402906,
+  "random_forest_macro_f1": 0.9542384805007209,
+  "random_forest_pay_precision": 0.9732268670737435,
+  "random_forest_pay_recall": 0.9583718778908418,
+  "random_forest_deb_precision": 0.9307692307692308,
+  "random_forest_deb_recall": 0.9550118389897395,
+  "scientific_scope": "Feature-space congestion screening; not collision probability."
+}

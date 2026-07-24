@@ -1,0 +1,10 @@
+{
+  "source_url": "https://celestrak.org/pub/satcat.csv",
+  "source_mode": "committed real CelesTrak snapshot",
+  "loaded_utc": "2026-07-22T04:00:22.902811+00:00",
+  "local_file": "data/satcat.csv",
+  "sha256": "ae4efdfb3d7c0920e4f905573321bc29a7468a92ba369709c5fc235f187e09c7",
+  "live_refresh_error": "ConnectionError: HTTPSConnectionPool(host='celestrak.org', port=443): Max retries exceeded with url: /pub/satcat.csv (Caused by NameResolutionError(\"HTTPSConnection(host='celestrak.org', port=443): Failed to resolve 'celestrak.org' ([Errno -3] Temporary failure in name resolution)\"))",
+  "raw_rows": 70006,
+  "raw_columns": 17
+}

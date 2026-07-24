@@ -1,0 +1,8 @@
+TIMELINE_REQUIREMENT,NOTEBOOK_SECTION,OUTPUT
+Real catalogue ingestion and validation,Sections 4-5,data_provenance.json; cleaning_summary.csv
+Larger-catalogue clustering and comparison,Sections 7-10,pilot_vs_full_cluster_evaluation.csv; cluster_evaluation.csv; cluster_summary.csv
+Dashboard-ready data exports,Sections 11-16,dashboard_ready_table.csv; owner_summary.csv; debris_payload_pairs.csv
+Unsupervised models and metrics,Sections 8-13,"K-Means, silhouette score, PCA, nearest-neighbour tables"
+Exploratory supervised classification,Section 15,random_forest_metrics.csv; confusion matrix; feature importance
+Paper-ready figures and verified results,"Sections 6, 9-10, 15, 18",outputs/figures; model_summary.json
+Streamlit dashboard compatibility,Sections 16-17,validated dashboard_ready_table.csv and supporting tables
